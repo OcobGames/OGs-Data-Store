@@ -15,7 +15,7 @@ local Module = require(6213998418)
 
 ### Functions
 
-There are 4 functions on this module. They are
+There are 4 functions on this module. They are:
 
 ```
 Module:SetId(id)
