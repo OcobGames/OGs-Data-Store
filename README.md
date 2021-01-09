@@ -2,6 +2,8 @@
 
 It's basically the same system of my game [Building](https://roblox.com/games/6014589059/NUKE-Building) but improved as a module script.
 
+You can get this module [here](https://roblox.com/library/6213998418/OGs-Data-Store)
+
 ***DISCLAIMER: This is still in beta phase, if you find any bugs, please let me know.***
 
 ### Setting up the module
